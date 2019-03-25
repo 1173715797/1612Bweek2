@@ -1,0 +1,1 @@
+db.getCollection('week2-1').find({})
